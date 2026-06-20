@@ -15,4 +15,5 @@ dependencies = [
     "xgboost==1.7.6",
     "lightgbm>=4.0.0,<4.6.0",
     "kagglehub>=1.0.0",
+    "wandb>=0.27.2",
 ]
